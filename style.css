@@ -64,3 +64,10 @@ footer {
   background: #003366;
   color: white;
 }
+
+video {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  height: 400px;
+}
